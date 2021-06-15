@@ -5,6 +5,9 @@ Preset.option('install', true)
 
 Preset.extract('default').withTitle('Extracting templates...')
 
+Preset.edit(['src/main.js', 'src/main.ts'])
+  .addAfter('import App', 'import \'./main.css\'')
+
 Preset.group((preset) => {
   preset
     .editNodePackages()

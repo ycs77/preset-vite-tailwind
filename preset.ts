@@ -11,7 +11,7 @@ Preset.edit(['src/main.js', 'src/main.ts'])
 Preset.group((preset) => {
   preset
     .editNodePackages()
-    .addDev('tailwindcss', '^2.1.0')
+    .addDev('tailwindcss', '^2.2.0')
     .addDev('autoprefixer', '^10.0')
     .addDev('postcss', '^8.3.0')
     .addDev('postcss-import', '^14.0')

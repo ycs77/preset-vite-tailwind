@@ -15,7 +15,6 @@ Preset.group((preset) => {
     .addDev('autoprefixer', '^10.0')
     .addDev('postcss', '^8.3.0')
     .addDev('postcss-import', '^14.0')
-    .addDev('postcss-nested', '^5.0')
 
   // Sort node dependencies...
   preset.edit('package.json')

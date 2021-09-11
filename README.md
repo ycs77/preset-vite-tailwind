@@ -19,7 +19,7 @@
   </a>
   <br />
   <br />
-  <pre align="center">npx apply ycs77/preset-vite-tailwindcss</pre>
+  <pre align="center">npx apply ycs77/preset-vite-tailwind</pre>
 </p>
 <br />
 
@@ -27,5 +27,5 @@
   在 Vite 專案安裝 Tailwind CSS
   <br />
   <br />
-  <a href="https://github.com/ycs77/preset-vite-tailwindcss/blob/main/preset.ts">查看執行內容</a> - <a href="https://preset.dev">Preset 文檔</a> - <a href="https://github.com/ycs77/preset">Lucas 的 Presets</a>
+  <a href="https://github.com/ycs77/preset-vite-tailwind/blob/main/preset.ts">查看執行內容</a> - <a href="https://preset.dev">Preset 文檔</a> - <a href="https://github.com/ycs77/preset">Lucas 的 Presets</a>
 </div>

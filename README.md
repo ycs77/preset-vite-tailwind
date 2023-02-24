@@ -1,7 +1,7 @@
 <p align="center">
   <br />
   <a href="https://preset.dev">
-    <img width="100" src="https://raw.githubusercontent.com/preset/cli/main/.github/assets/logo.svg" alt="Logo of the Preset tool">
+    <img width="100" src="https://raw.githubusercontent.com/preset/cli/7ab81c0a42f599de05ea9956d72182cdf7a8c957/.github/assets/logo.svg" alt="Logo of the Preset tool">
   </a>
   <br />
 </p>
@@ -10,16 +10,9 @@
 
 <p align="center">
   <br />
-  <a href="https://www.npmjs.com/package/apply">
-    <img alt="npm" src="https://img.shields.io/npm/v/apply?label=preset&style=flat-square">
-  </a>
-  <span>&nbsp;</span>
-  <a href="https://github.com/ycs77/preset">
-    <img alt="npm" src="https://img.shields.io/badge/lucas--preset-vite--tailwindcss-blue?style=flat-square">
-  </a>
-  <br />
-  <br />
-  <pre align="center">npx apply ycs77/preset-vite-tailwind</pre>
+  <pre align="center">npx ycs77-preset vite-tailwind</pre>
+  <p align="center">本地運行：</p>
+  <pre align="center">ycs77-preset vite-tailwind</pre>
 </p>
 <br />
 

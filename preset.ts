@@ -23,7 +23,7 @@ async function installTailwindcss() {
 
   await group({
     title: 'install Tailwind CSS scaffolding',
-    handler: async() => {
+    handler: async () => {
       await extractTemplates({
         title: 'extract templates',
         from: 'default',
